@@ -1,8 +1,8 @@
 {
-  "name": "mikemarti-ch",
+  "name": "sebocode-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://SeboCode.github.io/mikemarti-ch",
+  "homepage": "https://sebocode.github.io/sebocode-portfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
